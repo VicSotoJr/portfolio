@@ -1,0 +1,30 @@
+html,body,footer{
+     background-color: #dc2f4c;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+img{
+	display:inline-block;
+	
+}
+
+div.container{
+	text-align: center;
+	width:auto;
+	overflow: hidden;
+}
+div.about{
+	width: 50%;
+	margin-left:20px;
+}
+#section1,#section3{
+	background-color: white
+}
+footer{
+	text-align: center;
+}
