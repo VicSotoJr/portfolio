@@ -10,7 +10,7 @@ html,body,footer{
 
 img{
 	display:inline-block;
-	
+
 }
 
 div.container{
@@ -22,7 +22,7 @@ div.about{
 	width: 50%;
 	margin-left:20px;
 }
-#section1,#section3{
+#Aboutme,#contact{
 	background-color: white
 }
 footer{
